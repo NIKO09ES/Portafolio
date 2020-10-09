@@ -10,9 +10,6 @@
 
   [Go to the site](https://niko09es.github.io/Portafolio/)
 
-  ![Screen Shot of Homepage](./src/assets/images/Portfolio.PNG)
-
-
   ## Table of Contents 
    
   * [Installation](#installation)
