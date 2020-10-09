@@ -3,22 +3,22 @@ import React from 'react';
 function Resume() {
     const frontEnd = [
         {
-            name: 'JavaScript'
-        },
-        {
-            name: 'React'
-        },
-        {
             name: 'HTML'
         },
         {
             name: 'CSS'
         },
         {
+            name: 'JavaScript'
+        },
+        {
             name: 'JQuery'
         },
         {
-            name: 'Materialize'
+            name: 'responsive design'
+        },
+        {
+            name: 'React'
         },
         {
             name: 'Bootstrap'
@@ -42,6 +42,9 @@ function Resume() {
         },
         {
             name: 'Rest'
+        },
+        {
+            name: 'GraphQL'
         },
     ]
     const other = [
