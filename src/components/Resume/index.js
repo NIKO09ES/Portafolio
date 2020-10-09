@@ -41,7 +41,7 @@ function Resume() {
             name: 'MongoDB, Mongoose'
         },
         {
-            name: 'Rest'
+            name: 'React'
         },
     ]
     const other = [
