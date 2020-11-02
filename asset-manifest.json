@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portafolio/static/css/main.394618e9.chunk.css",
+    "main.js": "/Portafolio/static/js/main.63da9310.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.63da9310.chunk.js.map",
+    "runtime-main.js": "/Portafolio/static/js/runtime-main.c0423103.js",
+    "runtime-main.js.map": "/Portafolio/static/js/runtime-main.c0423103.js.map",
+    "static/js/2.e32a4e92.chunk.js": "/Portafolio/static/js/2.e32a4e92.chunk.js",
+    "static/js/2.e32a4e92.chunk.js.map": "/Portafolio/static/js/2.e32a4e92.chunk.js.map",
+    "index.html": "/Portafolio/index.html",
+    "precache-manifest.ba07cc74c40e3a2803be01b9bee57b20.js": "/Portafolio/precache-manifest.ba07cc74c40e3a2803be01b9bee57b20.js",
+    "service-worker.js": "/Portafolio/service-worker.js",
+    "static/css/main.394618e9.chunk.css.map": "/Portafolio/static/css/main.394618e9.chunk.css.map",
+    "static/js/2.e32a4e92.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.e32a4e92.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Portafolio/static/media/background-light-grey.87c690b2.png",
+    "static/media/Pet.JPG": "/Portafolio/static/media/Pet.ba4918de.JPG",
+    "static/media/Portafolio.PNG": "/Portafolio/static/media/Portafolio.f3d4e3f4.PNG",
+    "static/media/Run-Buddy.JPG": "/Portafolio/static/media/Run-Buddy.5cd53ca0.JPG",
+    "static/media/ajax.pdf": "/Portafolio/static/media/ajax.cf5f33c1.pdf",
+    "static/media/gitDevJob.PNG": "/Portafolio/static/media/gitDevJob.5a0033f1.PNG",
+    "static/media/nico.png": "/Portafolio/static/media/nico.1a7b8bca.png",
+    "static/media/wordProjects.png": "/Portafolio/static/media/wordProjects.f916422e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0423103.js",
+    "static/js/2.e32a4e92.chunk.js",
+    "static/css/main.394618e9.chunk.css",
+    "static/js/main.63da9310.chunk.js"
+  ]
+}
