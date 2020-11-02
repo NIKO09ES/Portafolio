@@ -25,11 +25,11 @@ function ProjectList() {
             gitrepository: 'https://github.com/DWill1440/pet-tinder',
         },
         {
-            name: 'Run Buddy',
-            image: 'Run-Buddy.JPG',
-            technologies: 'HTML/CSS',
+            name: 'Word Projects',
+            image: 'wordProjects.png',
+            technologies: 'MongoDB/Express/React/Node/IndexDB/GraphQL/Moment/Bcrypt/Stripe/Apollo-server-express',
             deploy: 'https://niko09es.github.io/run-buddy/',
-            gitrepository: 'https://NIKO09ES.github.io/run-buddy/',
+            gitrepository: 'https://github.com/NIKO09ES/Words-projects/',
         }
     ]);
 
